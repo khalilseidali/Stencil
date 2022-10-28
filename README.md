@@ -12,7 +12,7 @@ for this method you will need
 
 The first two cases are very clear and there is no need to discuss about them. my plate is ( 30x35x1 CM ) because I have 3 elements to hit up that so I can size it big enough to put more PCBs at a time. remember, the plate most be stainless.
 
-####function
+### function
 This system can adjust temperature between (20°C to 500°C)
 first when operator starts the system, it needs a maximum and minimum temperature to set by. maximum most be at least the tins melt temperature and minimum most be where operator can pick the PCBs from plate and put the new ones. For this cycle, I used a PT100 sensor that is most common type of platinum resistance thermometer and is really accurate to sense the plates temperature. for processing unit I use ATmega8 and for the monitoring unit a graphical LCD is completely satisfying.
 
